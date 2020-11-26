@@ -8,6 +8,7 @@ Sample App illustrating the use of Flutter Provider while handling REST API.
 <img src="demo.gif" height=400>
 
 API used : https://restcountries.eu
+
 Endpoint used : https://restcountries.eu/rest/v2/all
 
 ## Packages Used in this Sample:
