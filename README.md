@@ -4,18 +4,19 @@ Sample App illustrating the use of Flutter Provider while handling REST API.
 
 ## Getting Started
 
+## Sample 
+<img src="demo.gif" height=400>
+
 API used : https://restcountries.eu
 Endpoint used : https://restcountries.eu/rest/v2/all
 
-## Packages Used in this Application:
+## Packages Used in this Sample:
   * flutter_svg: ^0.18.0
   * http: ^0.12.2
   * provider: ^4.3.2+2
   
 ## Show some love ⭐ Star this Repo.
 [![GitHub stars](https://img.shields.io/github/stars/tsvillain/FlutterProvider.svg?style=social&label=Star)](https://github.com/tsvillain/FlutterProvider) [![GitHub forks](https://img.shields.io/github/forks/tsvillain/FlutterProvider.svg?style=social&label=Fork)](https://github.com/tsvillain/FlutterProvider/fork)
-
-<img src="demo.gif">
 
 # Pull Requests
 
