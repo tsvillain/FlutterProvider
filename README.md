@@ -1,16 +1,31 @@
-# country_provider
+# Flutter Provider Sample
 
-A new Flutter project.
+Sample App illustrating the use of Flutter Provider while handling REST API.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+API used : https://restcountries.eu
+Endpoint used : https://restcountries.eu/rest/v2/all
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used in this Application:
+  * flutter_svg: ^0.18.0
+  * http: ^0.12.2
+  * provider: ^4.3.2+2
+  
+## Show some love ⭐ Star this Repo.
+[![GitHub stars](https://img.shields.io/github/stars/tsvillain/FlutterProvider.svg?style=social&label=Star)](https://github.com/tsvillain/FlutterProvider) [![GitHub forks](https://img.shields.io/github/forks/tsvillain/FlutterProvider.svg?style=social&label=Fork)](https://github.com/tsvillain/FlutterProvider/fork)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="demo.gif">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Pull Requests
+
+I welcome and encourage all pull requests. I usually take 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
+
+1.  Match the document style as closely as possible.
+2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
+3.  Check for existing [issues](https://github.com/tsvillain/FlutterProvider/issues) first, before filing an issue.
+
+### Created & Maintained By
+
+[Tekeshwar Singh](https://github.com/tsvillain) ([@tsvillain](https://www.instagram.com/tsvillain))
+
